@@ -35,7 +35,7 @@ And also, we should need more words in .txt file and the gcc compiler to execute
 So, we need you guys to fix the error like <unable to use the funcion>
 , <invalid type to execute the program>, and <wrong inputs that lead to unusual program>
 
-It is a project in my major in CHUNGBUK National University.
+It is a project in my major class in CHUNGBUK National University.
 And it has already a contributors who are my team named GyuHyeon and MinChan.
 I appreciate their efforts.
 
